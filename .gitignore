@@ -22,3 +22,9 @@ src/runs/
 
 # Perturbation byproducts written by count_perturb_type() during runs
 results/single*Perturbation_least_important_features.csv
+
+# Placeholder study: regenerable artefacts
+experiments/placeholder_study/checkpoints/
+experiments/placeholder_study/data/FlakeBench_placeholder.csv
+experiments/placeholder_study/data/mapping.jsonl
+experiments/placeholder_study/data/splits/*/
